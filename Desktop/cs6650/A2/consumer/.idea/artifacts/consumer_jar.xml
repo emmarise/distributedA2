@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="consumer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/consumer_jar</output-path>
+    <root id="archive" name="consumer.jar">
+      <element id="module-output" name="consumer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.7/gson-2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.31/slf4j-api-1.7.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.13.1/amqp-client-5.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.31/slf4j-simple-1.7.31.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:5.13.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.31" />
+    </root>
+  </artifact>
+</component>
